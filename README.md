@@ -1,5 +1,5 @@
 This is a notebook with an analysis of flight survey data. Three different models are presented:
-- a baseline model, a logisitc regression
+- a baseline model, a logistic regression
 - an ordinary decision tree
 - XGBoost model
 
